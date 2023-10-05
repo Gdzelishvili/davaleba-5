@@ -13,7 +13,7 @@
 }
 .main_nav_li {
   color: #fff;
-  font-family: Nerko One;
+  font-family: 'Nerko One', cursive;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -48,7 +48,7 @@
 .main_article_p1,
 main_article_p2 {
   color: #656565;
-  font-family: Nerko One;
+  font-family: 'Nerko One', cursive;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -74,7 +74,7 @@ main_article_p2 {
 .section1_img {
   width: 600px;
   height: 560px;
-  margin-right: 50px;
+  margin-right: 119px;
 }
 
 .sect1_div {
@@ -138,4 +138,60 @@ main_article_p2 {
     width: 580px;
     margin-left: 130px;
     margin-right: 16px;
+}
+
+/* footer start */
+
+.main_footer{
+    width: 1440px;
+    margin-inline: auto;
+    padding: 90px 130px 148px 130px;
+    background: #2A9D8F;
+}
+.footer_logo{
+    margin-right: 634px;
+}
+
+.footer_3link{
+    
+    font-style: normal;
+       
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 21px;
+}
+.link_a{
+    font-weight: 500;
+    line-height: 30px; /* 150% */
+    letter-spacing: 0.1px; 
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 20px;
+}
+.marg{
+    margin-left: 41px;
+    margin-right: 95px;
+}
+.sup_margin{
+    margin-right: 67px;
+}
+.lvl2_text{
+    display: inline-block;
+    vertical-align: middle;
+}
+.links2{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px; /* 150% */
+    letter-spacing: 0.09px;
+       
+}
+
+.lvl2_marg{
+    margin-left: 41px;
+    margin-right: 42px;
+
 }
