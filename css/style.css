@@ -38,7 +38,7 @@
 .article_title {
   color: #4d4d4d;
   text-align: center;
-  font-family: Poppins;
+  font-family: 'Poppins', sans-serif;
   font-size: 48px;
   font-style: normal;
   font-weight: 500;
@@ -82,7 +82,7 @@ main_article_p2 {
 }
 .sect1_h3 {
   color: #272727;
-  font-family: Poppins;
+  font-family: 'Poppins', sans-serif;
   font-size: 32px;
   font-style: normal;
   font-weight: 500;
@@ -94,7 +94,7 @@ main_article_p2 {
 }
 .sect1_p {
   color: #515151;
-  font-family: Poppins;
+  font-family: 'Poppins', sans-serif;
   font-size: 18px;
   font-style: italic;
   font-weight: 400;
@@ -124,7 +124,7 @@ main_article_p2 {
 }
 .sec2_paragraph{
     color: #535353;
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     font-size: 24px;
     font-style: normal;
     font-weight: 400;
@@ -165,7 +165,7 @@ main_article_p2 {
     line-height: 30px; /* 150% */
     letter-spacing: 0.1px; 
     color: #FFF;
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     font-size: 20px;
 }
 .marg{
@@ -181,7 +181,7 @@ main_article_p2 {
 }
 .links2{
     color: #FFF;
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
