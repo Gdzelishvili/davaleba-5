@@ -30,7 +30,7 @@
   margin-left: 340px;
 }
 
-/* main section */
+/* main article */
 .main_section {
   width: 780px;
   margin: 200px auto;
@@ -44,4 +44,19 @@
   font-weight: 500;
   line-height: 130%; /* 62.4px */
   letter-spacing: 0.24px;
+}
+.main_section_p1, main_section_p2 {
+  color: #656565;
+  font-family: Nerko One;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 30px */
+  letter-spacing: 0.1px;
+  margin-top: 60px;
+  margin-bottom: 52px;
+}
+.main_section_p2 {
+  line-height: 170%; /* 34px */
+  letter-spacing: 0.2px;
 }
