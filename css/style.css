@@ -31,11 +31,11 @@
 }
 
 /* main article */
-.main_section {
+.main_article {
   width: 780px;
   margin: 200px auto;
 }
-.Section_title {
+.article_title {
   color: #4d4d4d;
   text-align: center;
   font-family: Poppins;
@@ -45,7 +45,8 @@
   line-height: 130%; /* 62.4px */
   letter-spacing: 0.24px;
 }
-.main_section_p1, main_section_p2 {
+.main_article_p1,
+main_article_p2 {
   color: #656565;
   font-family: Nerko One;
   font-size: 20px;
@@ -56,7 +57,55 @@
   margin-top: 60px;
   margin-bottom: 52px;
 }
-.main_section_p2 {
+.main_article_p2 {
   line-height: 170%; /* 34px */
   letter-spacing: 0.2px;
+}
+
+/* section start */
+
+.section1 {
+  margin: 0 auto;
+  width: 1440px;
+  background: #c2f3ee;
+  padding: 80px 130px;
+}
+
+.section1_img {
+  width: 600px;
+  height: 560px;
+  margin-right: 50px;
+}
+
+.sect1_div {
+  display: inline-block;
+}
+.sect1_h3 {
+  color: #272727;
+  font-family: Poppins;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 48px; /* 150% */
+  letter-spacing: 0.16px;
+  width: 457px;
+  height: 96px;
+  margin-bottom: 27px;
+}
+.sect1_p {
+  color: #515151;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 27px; /* 150% */
+  letter-spacing: 0.09px;
+  width: 457px;
+  height: 324px;
+  margin-bottom: 45px;
+}
+
+.sect1_button{
+    background: #2A9D8F;
+    padding: 11px 16px;
 }
